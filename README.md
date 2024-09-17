@@ -1,1 +1,1 @@
-will update soon
+This project is one of my final projects for CS 241, it would build a Map of different locations around NYC and determine the cost of getting using the parameters distance time, and money. You could choose which parameter you would like to use to find the cheapest vs. fastest route to a location
